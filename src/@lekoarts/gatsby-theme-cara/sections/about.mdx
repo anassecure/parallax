@@ -1,11 +1,10 @@
 ## Our Services
 
-import React from "react"
-
-export default function Home() {
-  return (
-    <img src={`digitaltransformation.jpg`} alt="Digital Transformation Services" />
-  )
+render() {
+  // Note: this is an escape hatch and should be used sparingly!
+  // Normally we recommend using `import` for getting asset URLs
+  // as described in the “Importing Assets Directly Into Files” page.
+  return  <img src={digitaltransformation.jpg} alt="Digital Transformation Services" />;
 }
 
 <div class="container">
