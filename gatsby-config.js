@@ -10,7 +10,7 @@ module.exports = {
     siteTitle: `BeginIdeas, LLC - We Bring Ideas to Life`,
     siteTitleAlt: `BeginIdeas, LLC - We Bring Ideas to Life`,
     siteHeadline: `BeginIdeas, LLC - We Bring Ideas to Life`,
-    siteUrl: `https://cara.lekoarts.de`,
+    siteUrl: `https://beginideas.com`,
     siteDescription: `BeginIdeas, LLC - Federal Technology Modernization Firm`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
